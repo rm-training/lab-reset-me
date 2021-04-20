@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 name="John"
 
-echo "Hello ${name}!"
+echo "Hello, ${name}!"
 echo "---- Begin Setup ----"
